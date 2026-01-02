@@ -25,6 +25,9 @@ Thumbs.db
 # Quartz temp
 quartz-temp/
 
+# Content (will be synced, but don't commit duplicates)
+# content/
+
 # Logs
 *.log
 npm-debug.log*

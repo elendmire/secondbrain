@@ -1,0 +1,273 @@
+{
+  "main": {
+    "id": "58a32e9f96807ceb",
+    "type": "split",
+    "children": [
+      {
+        "id": "c697cc8534b9e273",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ad529fca91021410",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 - Areas/School/Dersler/Climate Change/Şehir Sağlığı - Benim Bölümüm.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Şehir Sağlığı - Benim Bölümüm"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3ee2c0c85d7b84e9",
+    "type": "split",
+    "children": [
+      {
+        "id": "867ce51c6ddb7334",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e9447da197936f9a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d1f1ade70cb778cf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "732a20b868e79fc3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "039ca9d83b96428b",
+    "type": "split",
+    "children": [
+      {
+        "id": "7f841466756e9cdb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6cebec62fcc75acb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06 - Zettelkasten/20260101161500-hipotez-uyum-stratejileri-esitsizlik.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "20260101161500-hipotez-uyum-stratejileri-esitsizlik"
+            }
+          }
+        ]
+      },
+      {
+        "id": "f0655ebf25bc16df",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c90caf5084fc6dc9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "PLUGINS_REHBER.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for PLUGINS_REHBER"
+            }
+          },
+          {
+            "id": "9623a92e1ed26e2a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "PLUGINS_REHBER.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from PLUGINS_REHBER"
+            }
+          },
+          {
+            "id": "ae70d9f2ee844732",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "058d4b7ae3497599",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "88d9f9a6ac0370f5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "03 - Areas/School/Dersler/Climate Change/Şehir Sağlığı - Benim Bölümüm.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Şehir Sağlığı - Benim Bölümüm"
+            }
+          },
+          {
+            "id": "b29957282f1aab56",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 406.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "templater-obsidian:Templater": false,
+      "periodic-notes:Open today": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false
+    }
+  },
+  "active": "ad529fca91021410",
+  "lastOpenFiles": [
+    "content/ICLOUD_SYNC_REHBER.md",
+    "content/03 - Areas/School/Research Project/Papers/Paper - WRF Model Performance.md",
+    "content/03 - Areas/School/Research Project/Papers/Paper - Forecasting Wind Speed Events.md",
+    "content/03 - Areas/School/Research Project/Cases/Cases Özet.md",
+    "content/03 - Areas/School/Research Project/Cases/Case 01 - Kangal RES.md",
+    "content/03 - Areas/School/Dersler/Climate Change/Şehir Sağlığı - Benim Bölümüm.md",
+    "content/03 - Areas/School/Dersler/Climate Change/Urban Health and Climate Change - Makale.md",
+    "content/03 - Areas/School/Dersler/Climate Change/Climate Change.md",
+    "content/03 - Areas/School/Thesis/Thesis - Ana Sayfa.md",
+    "content/03 - Areas/School/Thesis/Ara Rapor.md",
+    "content/03 - Areas/School/Research Project/WRF Simülasyon Parametreleri.md",
+    "content/03 - Areas/School/Research Project/Research Project - Ana Sayfa.md",
+    "content/03 - Areas/School/Research Project/Papers",
+    "content/03 - Areas/School/Research Project/Cases",
+    "content/03 - Areas/School/Research Project/MTO İstasyonları.md",
+    "content/03 - Areas/School/Dersler/Climate Change",
+    "content/03 - Areas/School/Thesis",
+    "content/03 - Areas/School/School MOC.md",
+    "content/03 - Areas/School/Research Project",
+    "content/03 - Areas/School/Dersler",
+    "content/03 - Areas/Saglik/Saglik Takip.md",
+    "content/03 - Areas/Kariyer/Kariyer Hedefleri.md",
+    "content/03 - Areas/Finans/Finans Takip.md",
+    "content/03 - Areas/School",
+    "content/03 - Areas/Saglik",
+    "content/03 - Areas/Kariyer",
+    "content/03 - Areas/Finans",
+    "content/00 - Inbox/Hosgeldin.md",
+    "content/06 - Zettelkasten/20260101161800-hipotez-gayri-resmi-yerlesimler.md",
+    "content/06 - Zettelkasten/20260101161700-hipotez-compound-events-saglik.md",
+    "content/06 - Zettelkasten/20260101161600-hipotez-mental-saglik-iklim.md",
+    "content/06 - Zettelkasten/20260101161500-hipotez-uyum-stratejileri-esitsizlik.md",
+    "content/06 - Zettelkasten/20260101160000-ai-research-agent-sistemi.md",
+    "content/06 - Zettelkasten/20260101150100-hard-cutoff-nedir.md",
+    "content/06 - Zettelkasten/20260101150000-wrf-model-nedir.md",
+    "content/06 - Zettelkasten/20260101120700-ikinci-beyin-nedir.md",
+    "node_modules/js-binary-schema-parser/example/horses.gif",
+    "node_modules/js-binary-schema-parser/example/dog.gif",
+    "node_modules/js-binary-schema-parser/example/box.gif",
+    "node_modules/gifuct-js/demo/jblack.gif",
+    "node_modules/gifuct-js/demo/horses.gif",
+    "node_modules/gifuct-js/demo/dog.gif",
+    "node_modules/cli-spinner/img/spinner.gif",
+    "quartz/static/og-image.png",
+    "quartz/static/icon.png",
+    "quartz-temp/quartz/static/og-image.png"
+  ]
+}

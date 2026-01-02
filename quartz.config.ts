@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "tr-TR",
-    baseUrl: "secondbrain.vercel.app", // Vercel'de deploy edildikten sonra güncellenecek
+    baseUrl: "secondbrain-kohl.vercel.app",
     ignorePatterns: [
       "private",
       "templates",
