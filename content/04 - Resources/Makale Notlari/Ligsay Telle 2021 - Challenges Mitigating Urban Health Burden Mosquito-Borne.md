@@ -3,7 +3,7 @@ created: 2026-01-01 17:00
 modified: 2026-01-01 17:00
 tags: [literatur, makale, sivrisinek, vektör, iklim-degisikligi, urban-health]
 type: literature-note
-authors: [Ligsay, Telle, Paul]
+authors: ["Ligsay", "Telle", "Paul"]
 year: 2021
 title: Challenges to Mitigating the Urban Health Burden of Mosquito-Borne Diseases in the Face of Climate Change
 journal: International Journal of Environmental Research and Public Health

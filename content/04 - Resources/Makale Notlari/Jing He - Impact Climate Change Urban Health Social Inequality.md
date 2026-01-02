@@ -3,7 +3,7 @@ created: 2026-01-01 17:03
 modified: 2026-01-01 17:03
 tags: [literatur, makale, inequality, social-inequality, urban-health]
 type: literature-note
-authors: [Jing, He]
+authors: ["Jing", "He"]
 year: 2025
 title: The Impact of Climate Change on Urban Health and Social Inequality
 journal: (To be verified)

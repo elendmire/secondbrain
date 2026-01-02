@@ -3,7 +3,7 @@ created: 2026-01-01 17:05
 modified: 2026-01-01 17:05
 tags: [literatur, makale, vulnerabilities, bangladesh, public-health]
 type: literature-note
-authors: [Das, Rabbi]
+authors: ["Das", "Rabbi"]
 year: 2025
 title: Vulnerabilities and impacts: Climate change and public health in Bangladesh
 journal: (To be verified)

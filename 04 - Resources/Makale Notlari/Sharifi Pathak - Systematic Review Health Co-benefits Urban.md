@@ -3,7 +3,7 @@ created: 2026-01-01 17:04
 modified: 2026-01-01 17:04
 tags: [literatur, makale, systematic-review, co-benefits, urban, climate]
 type: literature-note
-authors: [Sharifi, Pathak]
+authors: ["Sharifi", "Pathak"]
 year: 2021
 title: A systematic review of the health co-benefits of urban climate change mitigation and adaptation
 journal: (To be verified)

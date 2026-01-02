@@ -3,7 +3,7 @@ created: 2026-01-01 17:02
 modified: 2026-01-01 17:02
 tags: [literatur, makale, mitigation, adaptation, europe, urban-health]
 type: literature-note
-authors: [Kyprianou, Artopoulos]
+authors: ["Kyprianou", "Artopoulos"]
 year: 2023
 title: Mitigation and adaptation strategies to offset the impacts of climate change on urban health
 journal: (European perspective)
