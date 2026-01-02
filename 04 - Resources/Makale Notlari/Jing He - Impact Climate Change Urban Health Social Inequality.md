@@ -6,7 +6,7 @@ type: literature-note
 authors: ["Jing", "He"]
 year: 2025
 title: The Impact of Climate Change on Urban Health and Social Inequality
-journal: (To be verified)
+journal: "(To be verified)"
 status: reviewed
 related: [20260101161500-hipotez-uyum-stratejileri-esitsizlik, Urban Health Climate Change - Araştırma Planı]
 ---

@@ -5,8 +5,8 @@ tags: [literatur, makale, vulnerabilities, bangladesh, public-health]
 type: literature-note
 authors: ["Das", "Rabbi"]
 year: 2025
-title: Vulnerabilities and impacts: Climate change and public health in Bangladesh
-journal: (To be verified)
+title: ""Vulnerabilities and impacts: Climate change and public health in Bangladesh""
+journal: "(To be verified)"
 status: reviewed
 related: [20260101161800-hipotez-gayri-resmi-yerlesimler, Urban Health Climate Change - Araştırma Planı]
 ---

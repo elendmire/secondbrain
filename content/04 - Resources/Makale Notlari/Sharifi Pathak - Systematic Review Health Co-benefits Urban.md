@@ -6,7 +6,7 @@ type: literature-note
 authors: ["Sharifi", "Pathak"]
 year: 2021
 title: A systematic review of the health co-benefits of urban climate change mitigation and adaptation
-journal: (To be verified)
+journal: "(To be verified)"
 status: reviewed
 related: [20260101161500-hipotez-uyum-stratejileri-esitsizlik, Urban Health Climate Change - Araştırma Planı]
 ---

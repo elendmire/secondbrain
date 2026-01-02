@@ -6,7 +6,7 @@ type: literature-note
 authors: ["Kyprianou", "Artopoulos"]
 year: 2023
 title: Mitigation and adaptation strategies to offset the impacts of climate change on urban health
-journal: (European perspective)
+journal: "(European perspective)"
 status: reviewed
 related: [Urban Health Climate Change - Araştırma Planı, 20260101161500-hipotez-uyum-stratejileri-esitsizlik]
 ---

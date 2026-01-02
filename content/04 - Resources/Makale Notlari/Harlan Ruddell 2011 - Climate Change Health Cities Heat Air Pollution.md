@@ -5,7 +5,7 @@ tags: [literatur, makale, heat, air-pollution, co-benefits, mitigation, adaptati
 type: literature-note
 authors: ["Harlan", "Ruddell"]
 year: 2011
-title: Climate Change and Health in Cities: Impacts of Heat and Air Pollution and Potential Co-Benefits from Mitigation and Adaptation
+title: "Climate Change and Health in Cities: Impacts of Heat and Air Pollution and Potential Co-Benefits from Mitigation and Adaptation"
 journal: Current Opinion in Environmental Sustainability
 status: reviewed
 related: [Urban Health Climate Change - Araştırma Planı, 20260101161700-hipotez-compound-events-saglik]
