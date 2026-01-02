@@ -8,8 +8,8 @@
   "license": "MIT",
   "scripts": {
     "quartz": "./quartz/bootstrap-cli.mjs",
-    "build": "./quartz/bootstrap-cli.mjs build",
-    "start": "./quartz/bootstrap-cli.mjs build --serve",
+    "build": "./quartz/bootstrap-cli.mjs build --directory .",
+    "start": "./quartz/bootstrap-cli.mjs build --serve --directory .",
     "sync": "./quartz/bootstrap-cli.mjs sync"
   },
   "engines": {
